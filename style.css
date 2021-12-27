@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;  
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+    color: rgba(0, 0, 0, 0.609);
+}
+p{
+    color: darkgray;
+    font-size: 25px;
+}
+.cus_padding{
+    padding: 25px 0px;
+}
+.healthy_food{
+    display: flex;
+    width: 85%;
+    margin: auto;
+}
+.food_content{
+    width: 50%;
+    margin-top: 160px;
+}
+.food_bg_img{
+    width: 50%;
+}
+
+button{
+    padding: 15px 20px;
+    border-radius: 50px;
+    background: linear-gradient(50deg, #F88F49, #F34C2E);
+    color: #fff;
+    border: tomato;
+}
+.food_bg_img img{
+    width: 800px;
+}
+
+
