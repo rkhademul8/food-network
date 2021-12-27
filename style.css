@@ -40,3 +40,27 @@ button{
 }
 
 
+@media only screen and (max-width: 500px) {
+    .healthy_food{
+        display: block;        
+    }
+
+    h1{
+        font-family: 'Poppins', sans-serif;
+        font-size: 43px;
+        color: rgba(0, 0, 0, 0.609);
+    }
+   
+    .food_content{
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .food_bg_img img{
+        width: 425px;
+    }
+  }
+
+
+
+
