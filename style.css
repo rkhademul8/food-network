@@ -34,6 +34,7 @@ button{
     background: linear-gradient(50deg, #F88F49, #F34C2E);
     color: #fff;
     border: tomato;
+    margin-bottom: 25px;
 }
 .food_bg_img img{
     width: 800px;
@@ -48,6 +49,42 @@ button{
     width: 380px;
     padding-top: 70px;
 }
+.cust_padding p{
+    text-align: center; 
+    width: 50%;
+     margin:auto; 
+    color: black;
+}
+
+.Recipie_left{
+    width: 32%;
+  
+}
+.box_shadow{
+    background-color: #fff;
+}
+.Recipie_mid{
+    width: 32%;
+}
+.Recipie_right{
+    width: 32%;
+}
+
+#box_shadow{
+    margin: 36px;
+    padding: 22px;
+    background-color: #fff;
+    border-radius: 25px;
+    box-shadow: 5px 7px 40px gray;
+
+}
+
+
+#recipie_img{
+    width: 400px;
+}
+
+
 
 
 
@@ -71,6 +108,28 @@ button{
 
     .food_bg_img img{
         width: 425px;
+    }
+
+    .cust_padding p{
+        text-align: center; 
+        width: 80%;
+         margin:auto; 
+        color: black;
+        text-align: justify;
+    }
+
+    .Recipie_left{
+        width: 100%; 
+    }
+    .Recipie_mid{
+        width: 100%; 
+    }
+    .Recipie_right{
+        width: 100%; 
+    }
+
+    #recipie_img{
+        width: 306px;
     }
   }
 
